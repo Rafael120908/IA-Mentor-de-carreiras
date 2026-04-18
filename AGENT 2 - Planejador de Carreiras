@@ -1,1 +1,151 @@
 
+Olá! Recebi suas informações do entrevistador.
+
+Vejo que você escolheu Desenvolvedor Backend e tem 25 horas por semana para estudar. Perfeito! Com essa disponibilidade (cerca de 5 horas por dia), conseguiremos avançar rapidamente com conteúdos práticos e projetos avançados.
+
+Vou montar agora seu plano completo personalizado...
+
+🧩 VISÃO DO DIA A DIA
+
+Como é o trabalho de um(a) Desenvolvedor(a) Backend:
+
+Criar e manter a lógica de negócios de aplicações no servidor.
+
+Desenvolver e documentar APIs (RESTful) para comunicação com o Front-end.
+
+Modelar e gerenciar bancos de dados para armazenamento seguro de informações.
+
+Resolver problemas de performance e gargalos no processamento de dados.
+
+Implementar camadas de segurança, autenticação e autorização de usuários.
+
+🧠 MAPA DE SKILLS
+
+CORE SKILLS (essenciais):
+
+Lógica de programação avançada e Algoritmos.
+
+Uma linguagem de backend (ex: Java, Python, C# ou Node.js).
+
+Banco de Dados Relacional (SQL).
+
+NICE-TO-HAVE (complementares):
+
+Conhecimento em Docker e Containerização.
+
+Testes Unitários e TDD.
+
+FERRAMENTAS E TECNOLOGIAS:
+
+Git & GitHub (Controle de versão).
+
+Postman ou Insomnia (Testes de API).
+
+Frameworks de mercado (ex: Spring Boot, Django ou Express).
+
+📅 ROADMAP DE 90 DIAS
+
+ADAPTADO PARA: 25 horas/semana (Foco em imersão técnica e código).
+
+MÊS 1 - FUNDAMENTOS
+
+SEMANA 1-2:
+
+Domínio total da linguagem escolhida (Sintaxe, POO, Coleções).
+
+Controle de versão com Git: Commits, Branchs e Pull Requests.
+
+SEMANA 3-4:
+
+Fundamentos de SQL: Queries, Joins, Agregações e Modelagem de tabelas.
+
+Protocolo HTTP e verbos (GET, POST, PUT, DELETE).
+
+MÊS 2 - PRÁTICA
+
+SEMANA 5-6:
+
+Introdução ao Framework (ex: Spring Boot ou Node.js).
+
+Criação das primeiras APIs CRUD (Create, Read, Update, Delete).
+
+SEMANA 7-8:
+
+Integração do Framework com Banco de Dados via ORM/Hibernate.
+
+Tratamento de exceções e validação de dados de entrada.
+
+MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+
+SEMANA 9-10:
+
+Implementação de Segurança (JWT - JSON Web Tokens).
+
+Deploy da aplicação em nuvem (ex: Render, Railway ou AWS).
+
+SEMANA 11-12:
+
+Documentação de API com Swagger/OpenAPI.
+
+Refinação do LinkedIn, currículo e simulação de desafios técnicos.
+
+🚀 PROJETO DE PORTFÓLIO
+
+PROJETO: API de Gerenciamento de uma Biblioteca Digital ou E-commerce Simples.
+
+O QUE FAZER:
+Desenvolver uma API robusta onde usuários podem se cadastrar, listar produtos/livros, realizar buscas com filtros e simular um pedido/empréstimo.
+
+ENTREGÁVEIS:
+
+Repositório no GitHub com README detalhado.
+
+Banco de dados populado com dados iniciais.
+
+Documentação das rotas (Swagger).
+
+CRITÉRIOS DE ACEITAÇÃO:
+
+As senhas dos usuários devem estar criptografadas.
+
+Deve haver validação para não permitir duplicidade de dados.
+
+O sistema deve retornar códigos de erro HTTP apropriados (404, 400, 500).
+
+DICA: Foque na qualidade do código e nos comentários. Empresas de backend valorizam organização e "Clean Code" mais do que uma interface bonita.
+
+💬 ROTEIRO DE ENTREVISTAS
+
+PERGUNTA 1: O que é uma API RESTful?
+COMO RESPONDER: É um estilo de arquitetura que usa o protocolo HTTP para comunicação. Baseia-se em recursos (URLs) e usa métodos padrões (GET, POST...) de forma semântica e sem estado (stateless).
+
+PERGUNTA 2: Qual a diferença entre SQL e NoSQL?
+COMO RESPONDER: SQL é para dados estruturados e relacionais com esquemas fixos. NoSQL é mais flexível, ideal para grandes volumes de dados não estruturados e alta escalabilidade horizontal.
+
+PERGUNTA 3: O que é um JOIN em SQL?
+COMO RESPONDER: É uma cláusula usada para combinar linhas de duas ou mais tabelas com base em uma coluna relacionada entre elas (ex: INNER JOIN para registros correspondentes em ambas).
+
+PERGUNTA 4: Como você garante a segurança de uma API?
+COMO RESPONDER: Usando HTTPS, implementando autenticação via tokens (como JWT), validando todos os inputs do usuário para evitar SQL Injection e aplicando o princípio do menor privilégio no banco de dados.
+
+PERGUNTA 5: Como você lida com erros em uma aplicação?
+COMO RESPONDER: Utilizo blocos try-catch para capturar exceções conhecidas e implemento um Global Exception Handler para retornar mensagens amigáveis e códigos de status corretos para o cliente da API.
+
+🎓 TRILHA DIO RECOMENDADA
+
+TRILHA: Formação Java Developer ou Formação Node.js Fundamentals.
+
+POR QUE ESSA TRILHA:
+Essas formações da DIO focam exatamente no que o mercado pede: lógica sólida, integração com banco de dados e construção de projetos reais que vão direto para o seu portfólio.
+
+PRÓXIMOS PASSOS:
+
+Acesse dio.me
+
+Busque por "Java Developer" (ou a linguagem de sua preferência)
+
+Inscreva-se gratuitamente
+
+Siga o cronograma junto com este roadmap
+
+✨ Seu plano está pronto!
